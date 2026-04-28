@@ -12,6 +12,8 @@ entity Dealer :UserInfo{
     Location: String;
     state: Association to State;
     vehicles: Association to many Vehicle on vehicles.dealer = $self; 
+
+    
 }
 
 
