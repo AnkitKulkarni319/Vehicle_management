@@ -49,4 +49,10 @@ entity Order:UserInfo {
 aspect UserInfo {
     username    : String;
     createdTime : Timestamp;
+
+
+
+
+
+    
 }
