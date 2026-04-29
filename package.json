@@ -19,6 +19,9 @@
       "[production]": {
         "auth": "dummy"
       }
+    },
+    "server": {
+      "index": true
     }
   }
 }
